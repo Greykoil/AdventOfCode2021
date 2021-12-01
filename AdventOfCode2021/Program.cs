@@ -7,6 +7,7 @@ namespace AdventOfCode2021
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine(Day1.Run());
         }
     }
 }
